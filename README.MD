@@ -6,7 +6,7 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for Et
 
 - 💼 Developer
 
-  >Discord.js | Java | Web-Development | Basic .Lua
+ >Discord.js | Java | Web-Development | Basic .Lua
 
 - 📈
 
