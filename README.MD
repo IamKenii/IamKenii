@@ -8,7 +8,5 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for *E
 
   > I stopped developing sinds 01-02-2022.
 
-  > Still working as a discord.js developer, but not as much as it used to be
-
 - ❤️ Ethical Hacking & Cyber Security
 
