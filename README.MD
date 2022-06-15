@@ -6,7 +6,11 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for *E
 
 - 💼 Developer
 
-  > I stopped developing sinds 01-02-2022.
+  > Web-Development
+  > JavaScript
+  > Bash
+  > Python
+  > Discord.js
 
 - ❤️ Ethical Hacking & Cyber Security
 
