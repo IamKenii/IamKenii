@@ -4,13 +4,18 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for *E
 
 **About me**
 
-- 💼 Developer
-
+Back ik 2020 I started developing in 
   - Web-Development
-  - JavaScript
-  - Bash
-  - Python
+  
+Later in 2021 I started to learn 
   - Discord.js
+  - Node.js
+  - JavaScript for minecraft plugins
+  
+Begin 2022 I stopped developing in those given above languages. 
+I moved to Python and Bash scripting. In my spare time i stared to learn Linux core and learning how to hack.
 
-- ❤️ Ethical Hacking & Cyber Security
+
+  
+
 
