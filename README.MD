@@ -17,9 +17,6 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for *E
 > I stopped developing in those given above languages. 
 > I moved to Python and Bash scripting. In my spare time I stared to learn Linux core and learning how to hack.
 
-I have a love for Ethical Hacking & Cyber Security.
-
-
   
 
 
