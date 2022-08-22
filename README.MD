@@ -11,6 +11,9 @@ Hi I'm Kenix, A Dutch Student in information technology and I have a love for *E
   - Discord.js
   - Node.js
   - JavaScript for minecraft plugins
+  - JavaScript
+  - Python
+  - Bash for Linux
   
 ###### Begin 2022 
 
