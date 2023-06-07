@@ -1,12 +1,15 @@
 # [Just me](https://github.com/IamKenii)
 
-Hoi, ik ben Kenix, een Nederlandse student in Informatietechnologie en ik ben dol op cybersecurity.
 
-## Over mij
+## Nederlands
 
-Ik heb een passie voor het ontwikkelen van tools en websites. Ik ben begonnen met het leren van webontwikkeling in 2020. In de loop der jaren heb ik het volgende geleerd:
+Hoi, ik ben Kenix, een Nederlandse student in Informatietechnologie, en ik heb een passie voor cybersecurity.
 
-#### In 2021 heb ik geleerd:
+### Over mij
+
+Ik heb een grote interesse in het ontwikkelen van tools en websites. In 2020 ben ik begonnen met het leren van webontwikkeling. Gedurende de jaren heb ik verschillende vaardigheden verworven:
+
+#### In 2021 heb ik het volgende geleerd:
 - Discord.js
 - Node.js
 - JavaScript voor Minecraft-plugins
@@ -16,11 +19,13 @@ Ik heb een passie voor het ontwikkelen van tools en websites. Ik ben begonnen me
 
 Tegenwoordig werk ik voornamelijk aan het maken van websites en tools in Python voor netwerken.
 
-# English:
+---
+
+## English
 
 Hi, I'm Kenix, a Dutch student in Information Technology, and I have a love for cybersecurity.
 
-## About me
+### About me
 
 I have a passion for developing tools and websites. I started learning web development back in 2020. Over the years, I have learned:
 
@@ -33,3 +38,5 @@ I have a passion for developing tools and websites. I started learning web devel
 - Bash for Linux
 
 These days, I mainly work on creating websites and tools in Python for networking.
+
+---
