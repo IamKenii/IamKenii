@@ -1,24 +1,35 @@
-# <a href="https://github.com/IamKenii">Just me</a>
+# [Just me](https://github.com/IamKenii)
 
-Hi I'm Kenix, A Dutch Student in information technology and I have a love for *Ethical* Hacking.
+Hoi, ik ben Kenix, een Nederlandse student in Informatietechnologie en ik ben dol op cybersecurity.
 
-**About me**
+## Over mij
 
-###### Back ik 2020 I started developing in 
-  - Web-Development
-  
-###### Later in 2021 I started to learn 
-  - Discord.js
-  - Node.js
-  - JavaScript for minecraft plugins
-  - JavaScript
-  - Python
-  - Bash for Linux
-  
-###### Begin 2022 
+Ik heb een passie voor het ontwikkelen van tools en websites. Ik ben begonnen met het leren van webontwikkeling in 2020. In de loop der jaren heb ik het volgende geleerd:
 
-> I stopped developing in those given above languages.
+#### In 2021 heb ik geleerd:
+- Discord.js
+- Node.js
+- JavaScript voor Minecraft-plugins
+- JavaScript
+- Python
+- Bash voor Linux
 
-  
+Tegenwoordig werk ik voornamelijk aan het maken van websites en tools in Python voor netwerken.
 
+# English:
 
+Hi, I'm Kenix, a Dutch student in Information Technology, and I have a love for cybersecurity.
+
+## About me
+
+I have a passion for developing tools and websites. I started learning web development back in 2020. Over the years, I have learned:
+
+#### Back in 2021, I learned:
+- Discord.js
+- Node.js
+- JavaScript for Minecraft plugins
+- JavaScript
+- Python
+- Bash for Linux
+
+These days, I mainly work on creating websites and tools in Python for networking.
