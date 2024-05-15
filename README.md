@@ -18,8 +18,7 @@
   🐍 Currently learning Python programming!
 
 </p>
-
-  
+<br>
 
 <h2 align="left">My Skills</h2>
 <br>
