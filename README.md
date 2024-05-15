@@ -1,54 +1,56 @@
- <h2><div align="center">Hi 👋, I'm Kenii. I'm a IT student from The Netherlands.</div> </h2> 
-  
-  ---
-- 🔒 Studying to become a Cyber Security Engineer  
-  
-
-- 🐍 Currently learning Python programming!  
-  
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-### Skills  
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<h3 align="center">👩‍💻 Socials</h3><div align="center">
+  <a href="https://github.com/IamKenii">
+  <img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"/></a>
+  <a href="https://www.linkedin.com/in/henry-elsinga-b811a8236/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://twitter.com/kenixwastaken">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 </div>
 
-</td><td valign="top" width="33%">
+<br>
+<h3 align="center">👩‍💻 About Me</h3>
+<h1 align="center">Hi 👋, I'm Kenii. I'm a IT student from The Netherlands.</h1>
 
+<p align="center">
 
-</td><td valign="top" width="33%">
+  🔒 Studying to become a Cyber Security Engineer<br>
 
+  🐍 Currently learning Python programming!
 
-### Programming  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
+</p>
 
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/IamKenii" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/kenixwastaken" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
+
+<h2 align="left">My Skills</h2>
+<h3 align="center">🛠 Tools</h3>
+<p align="center">
+
+  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px;"></a>
+
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" style="margin: 10px;"></a>
+
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px;"></a>
+
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" style="margin: 10px;"></a>
+
+  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" style="margin: 10px;"></a>
+
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 10px;"></a>
+
+  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" style="margin: 10px;"></a>
+
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" style="margin: 10px;"></a>
+</p> 
+
+<h3 align="center">📝 Language</h3>
+<p align="center">
+
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" style="margin: 10px;"></a>
+
+  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px;"></a>
+
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px;"></a>
+
+  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" style="margin: 10px;"></a>
+
+</p>
