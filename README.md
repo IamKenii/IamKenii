@@ -2,7 +2,7 @@
   <a href="https://github.com/IamKenii">
   <img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"/></a>
   <a href="https://www.linkedin.com/in/henry-elsinga-b811a8236/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>-->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://twitter.com/kenixwastaken">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 </div>
@@ -40,3 +40,4 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"></a>
 </p>
+
